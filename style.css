@@ -1,0 +1,65 @@
+body{
+    background-color: #2c0b0e;
+    align-items: center;
+}
+
+.navbar{
+    background-color: #2c0b0e;
+}
+
+.card{
+    background-color: 	#8a0808;
+}
+
+.txtaccion{
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+    color: aliceblue;
+
+}
+
+.card-title{
+    color: white;
+    font-weight: bold;
+}
+.card-text{
+    color: #260101;
+    font-size: 12px;
+}
+
+.piedepag{
+    background-color: #8a0808;
+}
+
+.textopie{
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.text-center{
+    color: #260101;
+}
+
+.navbar-brand{
+color: #cc0000;
+font-weight: bold;
+font-size: 30px;
+}
+
+.btn{
+    background-color: #8a0808;
+    color: aliceblue;
+}
+
+.pprincipal{
+    color: aliceblue;
+}
+
+.btn-outline-success{
+    background-color: #8a0808;
+}
+
+.collapse{
+    color: aliceblue;
+}
